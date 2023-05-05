@@ -1,0 +1,22 @@
+C:\Users\otto5\OneDrive - EUC Nord\Documents\ProgrammeringB\Programmering Projekt - Økonomi\Programmering Projekt - Økonomi\bin\Debug\Programmering Projekt - Økonomi.exe.config
+C:\Users\otto5\OneDrive - EUC Nord\Documents\ProgrammeringB\Programmering Projekt - Økonomi\Programmering Projekt - Økonomi\bin\Debug\Programmering Projekt - Økonomi.exe
+C:\Users\otto5\OneDrive - EUC Nord\Documents\ProgrammeringB\Programmering Projekt - Økonomi\Programmering Projekt - Økonomi\bin\Debug\Programmering Projekt - Økonomi.pdb
+C:\Users\otto5\OneDrive - EUC Nord\Documents\ProgrammeringB\Programmering Projekt - Økonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.csproj.AssemblyReference.cache
+C:\Users\otto5\OneDrive - EUC Nord\Documents\ProgrammeringB\Programmering Projekt - Økonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.csproj.SuggestedBindingRedirects.cache
+C:\Users\otto5\OneDrive - EUC Nord\Documents\ProgrammeringB\Programmering Projekt - Økonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering_Projekt___Økonomi.Form1.resources
+C:\Users\otto5\OneDrive - EUC Nord\Documents\ProgrammeringB\Programmering Projekt - Økonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering_Projekt___Økonomi.Properties.Resources.resources
+C:\Users\otto5\OneDrive - EUC Nord\Documents\ProgrammeringB\Programmering Projekt - Økonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.csproj.GenerateResource.cache
+C:\Users\otto5\OneDrive - EUC Nord\Documents\ProgrammeringB\Programmering Projekt - Økonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.csproj.CoreCompileInputs.cache
+C:\Users\otto5\OneDrive - EUC Nord\Documents\ProgrammeringB\Programmering Projekt - Økonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.exe
+C:\Users\otto5\OneDrive - EUC Nord\Documents\ProgrammeringB\Programmering Projekt - Økonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.pdb
+C:\Users\otto5\OneDrive - EUC Nord\Documents\!GitHub\ProgB_Enkelt_Okonomi\Programmering Projekt - Økonomi\bin\Debug\Programmering Projekt - Økonomi.exe.config
+C:\Users\otto5\OneDrive - EUC Nord\Documents\!GitHub\ProgB_Enkelt_Okonomi\Programmering Projekt - Økonomi\bin\Debug\Programmering Projekt - Økonomi.exe
+C:\Users\otto5\OneDrive - EUC Nord\Documents\!GitHub\ProgB_Enkelt_Okonomi\Programmering Projekt - Økonomi\bin\Debug\Programmering Projekt - Økonomi.pdb
+C:\Users\otto5\OneDrive - EUC Nord\Documents\!GitHub\ProgB_Enkelt_Okonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.csproj.AssemblyReference.cache
+C:\Users\otto5\OneDrive - EUC Nord\Documents\!GitHub\ProgB_Enkelt_Okonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.csproj.SuggestedBindingRedirects.cache
+C:\Users\otto5\OneDrive - EUC Nord\Documents\!GitHub\ProgB_Enkelt_Okonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering_Projekt___Økonomi.Form1.resources
+C:\Users\otto5\OneDrive - EUC Nord\Documents\!GitHub\ProgB_Enkelt_Okonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering_Projekt___Økonomi.Properties.Resources.resources
+C:\Users\otto5\OneDrive - EUC Nord\Documents\!GitHub\ProgB_Enkelt_Okonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.csproj.GenerateResource.cache
+C:\Users\otto5\OneDrive - EUC Nord\Documents\!GitHub\ProgB_Enkelt_Okonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.csproj.CoreCompileInputs.cache
+C:\Users\otto5\OneDrive - EUC Nord\Documents\!GitHub\ProgB_Enkelt_Okonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.exe
+C:\Users\otto5\OneDrive - EUC Nord\Documents\!GitHub\ProgB_Enkelt_Okonomi\Programmering Projekt - Økonomi\obj\Debug\Programmering Projekt - Økonomi.pdb
